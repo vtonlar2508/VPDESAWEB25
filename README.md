@@ -37,7 +37,7 @@ Se usaran herramientas como **html** y **css** para el frontend de la pagina, pa
 
 La pagina esta en un estado muy muy temprano aun, solo contiene la idea de como se vera la pgina principal, algunos apartados que serviran para los usos anteriormente mencionados, aqui estaria el codigo de la pagina principal en html:
 
-````
+```
 <!DOCTYPE html>
 <head>
     <meta charset="utf-8">
@@ -57,7 +57,7 @@ La pagina esta en un estado muy muy temprano aun, solo contiene la idea de como 
     <a id="otherW" href="Apointment.html" type="button">Apointment</a>
 
 </body>`
-````
+```
 
 ### ***5. Futuras ideas***
 
