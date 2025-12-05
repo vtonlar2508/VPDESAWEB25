@@ -66,3 +66,6 @@ La pagina esta en un estado muy muy temprano aun, solo contiene la idea de como 
 |Terminar decoracion  |        Media        |
 |Terminan apartados   |        Maxima       |
 |Comenzar con backend |        Maxima       |
+
+
+![WhatsApp Image 2025-12-05 at 19 00 00](https://github.com/user-attachments/assets/f6956685-91a1-4aaf-a467-6c5a7b522f24)
