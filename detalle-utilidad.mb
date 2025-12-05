@@ -1,1 +1,27 @@
+# ***Detalle de utilidad***
 
+En este apartado veremos a fondo todos las diferentes funcionalidades, empezando por:
+
+## **1. Perfil de usuarios**
+
+El perfil de usuario se usara para tener constancia de toda la actividad que hizo el usuario, como por ejemplo citas, tatuajes, piercongs, compras y demas, aparte de poder insertar cierta cantidad de dinero en la cuenta para realizar pagos de forma rapida.
+
+El perfil de usuario contara con nombre completo, numero de identificacion, clausulas las cuales autorizaran al tatuador a realizar su trabajo, genero, numeros de contacto y numero de usuario, el numero de usuario se utilizara para enviar invitaciones de amigos y para que el tatuador pueda acceder al perfil de manera facil.
+
+## **2. Citas**
+
+En la pagina abra una seccion dedicada totalmente a citas, la cual contara con un formario el cual el usuario tendra que rellenar con lo que que desa, se le haran preguntas medicas dependiendo de que es lo que quiere ademas de dejar un lugar para escribir y mandar fotos de referencia de que es lo que quiere exactamente.
+
+Luego de rellenar el formulario se le mostrara un calendario donde eligira la fecha y hora que quiera para la cita **(logicamente solo mostrando las fechas disponibles)**.
+
+## **3. Valoracion**
+
+Aqui el usuario dejara una valoracion de el servicio o producto que compre, podra introducir fotos y videos para que otros usuarios vean lo que la tienda dispone, esta funcion tampodria ser utilizada por otros usuarios para tomar inspiracion para ellos mismos
+
+## **4. Ver mas**
+
+En esta seccion el usuario podra ver bocetos los cuales publicara el tatuador o otros usuarios para inspirarse, ademas de funcionar como una especie de foro para todos, lo que se busca en esta funcion es comunicacion y crear una comunidad mas abierta la cual pueda disfrutar y asi crear una clientela mas fiel.
+
+## **5. Articulos**
+
+Este sera un apartado clasico donde se mostraran pendientes, cremas y demas que ofrece la tienda, se vera una imagen del producto con junto el nombre y precio, ademas de tener una opcion de filtrar los elementos espefificos que este buscando el usuario.
