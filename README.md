@@ -35,6 +35,9 @@ Se usaran herramientas como **html** y **css** para el frontend de la pagina, pa
 
 Toda informacion la conseguire atraves de varios foros de https://stackoverflow.com/questions y https://www.w3schools.com/
 
+
+Podras ver mas detalladaente como sera el paghina en https://github.com/vtonlar2508/VPDESAWEB25/blob/main/detalle-utilidad.mb
+
 ### ***4. Desarrollo de pagina***
 
 La pagina esta en un estado muy muy temprano aun, solo contiene la idea de como se vera la pgina principal, algunos apartados que serviran para los usos anteriormente mencionados, aqui estaria el codigo de la pagina principal en html:
